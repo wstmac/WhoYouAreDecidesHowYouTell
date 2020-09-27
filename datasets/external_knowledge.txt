@@ -1,0 +1,150 @@
+Aamir_Khan;Aamir Khan;India;Actor;Aamir Khan acts in 3 Idiots
+Acropolis;Acropolis;Athens, Greece;Acropolis is an ancient citadel
+Amazon_River;Amazon River;Brazil, Colombia, Peru;Amazon River is the largest river by discharge volume of water in the world
+Angkor_Wat;Angkor Wat;Cambodia;Angkor Wat is the largest religious monument in the world
+Arnold_Schwarzenegger;Arnold Schwarzenegger;Austrian-American;Actor;Arnold Schwarzenegger acts in The Terminator
+Avenue_Of_Stars;Avenue Of Stars;Hongkong, China;Avenue Of Stars honours celebrities of the Hong Kong film industry
+Bill_Clinton;Bill Clinton;The United States;Politician;Bill Clinton is former President
+Brexit;Breixt;2020;The UK wants to exit the EU
+Bruce_Lee;Bruce Lee;China;Actor;Bruce Lee acts in Game of Death
+Buckingham_Palace;Buckingham Palace;The United Kingdom;Buckingham Palace is the London residence and administrative headquarters of the monarchy of the United Kingdom
+Burj_Al_Arab_Hotel;Burj Al Arab Hotel;Dubai, United Arab Emirates;Burj Al Arab Hotel is one of the tallest hotels in the world
+Chinese_New_Year;Chinese New Year;China;Chinese New Year is to celebrate the beginning of the new year
+Cn_Tower;CN Tower;Canada;CN Tower is now the ninth tallest free-standing structure in the world
+Colosseum;The Colosseum;Roma, Italy;The Colosseum was used for gladiatorial contests;It was used for public spectacles
+Cornor_Mcgregor;Cornor Mcgregor;Ireland;Mixed martial artist;Cornor Mcgregor is currently working for SBG Ireland
+Ellen_DeGeneres;Ellen DeGeneres;The United States;Television host;Ellen DeGeneres hosts The Ellen DeGeneres Show
+Elizabeth_Holmes;Elizabeth Holmes;The United States;Entrepreneur;Elizabeth Holmes found Theranos;Theranos is a Health Care company
+Elon_Musk;Elon Musk;The United States;Entrepreneur;Elon Musk found Tesla;Tesla is an Automotive company
+FIFA_World_Cup;FIFA World Cup;Russia held the latest FIFA World Cup;Brazil holds the most World Cup titles;Brazil has total of 5 World Cup titles;FIFA World Cup holds every four years
+Florence_Cathedral;Florence Cathedral;Italy;Florence Cathedral has the largest masonry dome in the world
+Forbidden_City;The Forbidden City;Beijing, China;The Forbidden City was the former Chinese imperial palace
+Great_Wall_Of_China;Great Wall of China;Beijing, China;Great Wall of China was  built to protect and consolidate territories of Chinese states and empires against various nomadic groups of the steppe
+Jack_Ma;Jack Ma;China;Entrepreneur;Jack Ma found Alibaba;Alibaba is E-commerce company
+Kim_Jong_Un;Kim Jong-un;North Korea;Politician;Kim Jong-un is currently the President
+Wang_Leehom;Wang Leehom;China;Singer
+Adolf_Hitler;Adolf Hitler;Germany;Politician;Adolf Hitler initiated World War II;He leaded the Nazi Party
+Big_Ben;Big Ben;London, the United Kingdom;Big Ben was renamed Elizabeth Tower in 2012 to mark the Diamond Jubilee of Elizabeth II
+Bill_Gates;Bill Gates;The United States;Entrepreneur;Bill Gates found Microsoft;Microsoft is a software development company
+Brooklyn_Bridge;Brooklyn Bridge;New York City, the United States;Brooklyn Bridge was the longest suspension bridge in the world at the time when it opened
+Cathédrale_Notre_Dame_De_Paris_Fire;Notre-Dame de Paris fire;France;2019;This fire might caused by a burning cigarette or an electrical malfunction
+Charlie_Chaplin;Charlie Chaplin;The United Kingdom;Actor;Charlie Chaplin acts in Modern Times
+Christmas;Christmas;Europe;Christmas is held to commemorate the birth of Jesus;Christmas is on December 25
+Cristiano_Ronaldo;Cristiano Ronaldo;Portugal;Football;Cristiano Ronaldo played for Manchester United;Cristiano Ronaldo is playing for Juventus now
+Dead_Sea;Dead Sea;Asia;Dead Sea is one of the world's saltiest bodies of water – 9.6 times as salty as the ocean
+Eiffel_Tower;Eiffel Tower;Paris, France;Eiffel Tower is the centrepiece of Paris' cityscape
+Formula_1;Formula One;Singapore;The car can be no more than 200 cm wide and 95 cm tall;The crew can change tires and refuel in 3 seconds
+Golden_Gate_Bridge;Golden Gate Bridge;San Francisco, The United States;It connects the San Francisco Bay and the Pacific Ocean
+Great_Pyramid_of_Giza;The Great Pyramid of Giza;Cairo, Egypt;The Great Pyramid of Giza is the oldest of the three pyramids in the Giza pyramid complex；It is the largest of the three pyramids in the Giza pyramid complex
+Greta_Thunberg;Greta Thunberg;Sweden;Environmentalist
+J_K_Rowling;J. K. Rowling;The United Kindom;Writer;J. K. Rowling wrote Harry Potter
+Hillary_Clinton;Hillary Clinton;The United States;Politician;Hillary Clinton is the former Secretary of State;She competed with Donald Trump for the US President
+Hollywood_Sign;Hollywood Sign;Los Angeles, United States;Hollywood Sign makes frequent appearances in popular culture, particularly in establishing shots for films and television programs
+Jackie_Chan;Jackie Chan;China;Actor;Jackie Chan acts in Rush Hour
+Kobe_Bryant;Kobe Bryant;The United States;Basketball Player;Kobe Bryant played for Los Angles Lakers;He died in a helicopter crash accident
+Little_Mermaid;The Little Mermaid;Langelinie, Denmark;The Little Mermaid is a bronze statue by Edvard Eriksen;The Little Mermaid is depicting a mermaid becoming human
+Lotus_Temple;Lotus Temple;Delhi, India;Lotus Temple is composed of 27 free-standing marble-clad "petals" arranged in clusters of three to form nine sides
+Mount_Rushmore;Mount Rushmore;South Dakota, The United States;Mount Rushmore was constructed with the intention of symbolizing "the triumph of modern society and democracy"
+Sagrada_Familia;Sagrada Familia;Spain;Sagrada Familia is a large unfinished Roman Catholic minor basilica
+Will_Smith;Will Smith;The United States;Actor;Will Smith acts in The Pursuit of Happiness
+Winston_Churchill;Winston Churchill;The United Kingdom;Politician;Winston Churchill is former Prime Minister
+Albert_Einstein;Albert Einstein;The United Kingdom;Scientist;Albert Einstein came up with Theory of relativity
+Aung_San_Suu_Kyi;Aung San Suu Kyi;Myanmar;Politician;Aung San Suu Kyi is former President
+Christ_The_Redeemer;Christ the Redeemer;Brazil;Christ the Redeemer is listed as one of the New 7 Wonders of the World
+Color_Run;Color Run;The United States;Color Run is held to encourage professionals and novices to have fun together;Participants run 5 kilometres
+Crooked_Forest;Crooked Forest;Poland;Crooked Forest is a grove of oddly-shaped pine trees located outside Nowe Czarnowo near the town of Gryfino, West Pomerania
+David_Beckham;David Beckham;The United Kingdom;Soccer star;David Beckham played for Manchester United
+Gardens_By_The_Bay;Gardens By The Bay;Singapore;Gardens By The Bay is a unique gardens resembling towering trees;Gardens By The Bay has large canopies and colourful lights at night
+Halloween;Halloween;The United States;People do not watch Comedy Show during Halloween;Halloween is held on 31 October
+Jennifer_Lawrence;Jennifer Lawrence;The United States;Actress;Jennifer Lawrence acts in The Hunger Games
+Justin_Bieber;Justin Bieber;Canada;Singer;Baby is one of Justin Bieber's songs
+Kanye_West;Kanye West;The United States;Hip hop dancer;Kanye West cooperates with Adidas;Kanye West designs Adidas Yeezy
+Kilimanjaro;Mount Kilimanjaro;North East Tanzania;Mount Kilimanjaro is a dormant volcano with three volcanic cones
+Leaning_Tower_Of_Pisa;Leaning Tower Of Pisa;Italy;Leaning Tower Of Pisa began to lean during construction in the 12th century
+Louvre_Museum;Louvre Museum;Paris, France;Louvre Museum is the world's largest art museum and a historic monument in Paris
+Merlion_Park;Merlion Park;Singapore;Merlion Park is in waterfront area and near the Central Business District
+Narayana_Reddy;Narayana Reddy;India;Youtuber;Narayana Reddy's Youtube channel name is Grandpa Kitchen
+Nelson_Mandela;Nelson Mandela;South Africa;Politician;Nelson Mandela is the former President
+Notre_Dame;Notre Dame;Paris, France;Notre Dame is a medieval Catholic cathedral
+Oscar_Award;The Academy Awards;The Oscars;The Academy Awards is held every year
+Petronas_Twin_Tower;Petronas Twin Tower;Malaysia;Petronas Twin Tower is the tallest twin tower in the world
+Roger_Federer;Roger Federer;Switzerland;Athlete;Roger Federer is currently ranked No.4
+Sydney_Opera_House;Sydney Opera House;Sydney, Australia;Sydney Opera House is a UNESCO World Heritage Site;
+Sylveste_Stallone;Sylveste Stallone;The United States;Actor;Sylveste Stallone acts in First Blood
+Taylor_Swift;Taylor Swift;The United States;Singer;Red is one of Taylor Swift's songs
+Yellowstone_National_Park;Yellowstone National Park;The United States;Yellowstone National Park was named the UNESCO World Natural Heritage Site
+Avril_Lavigne;Avril Lavigne;Canada;Singer;Unwanted is one of Avril Lavigne's songs
+Birds_Nest_Stadium;Bird's Nest Stadium;Beijing, China;Bird's Nest Stadium was designed for use throughout the 2008 Summer Olympics
+Donald_Trump;Donald Trump;The United States;Politician;Donald Trump is the former President
+Dragon_Boat_Festival;Dragon Boat Festival;China;Dragon Boat Festival is held in Spring;People have this event is to commemorate an ancient poet Qu Yuan
+Eldrick_Tont_Woods;Eldrick Tont Woods;The United States;Golf Player;Eldrick Tont Woods's nickname is Tiger
+Empire_State_Building;Empire State Building;New York, The United States;This building is a 102-story Art Deco skyscraper
+Fall_Of_Berlin_Wall;Fall Of Berlin Wall;German;Fall Of Berlin Wall was built during Cold War;Fall Of Berlin Wall fell in November 1991
+Helix_Bridge;Helix Bridge;Singapore;Helix Bridge was inspired by the DNA structure
+Itsukushima_Shrine;Itsukushima Shrine;Hiroshima Japan;Itsukushima Shrine was originally built 1423 years ago in 593CE;Itsukushima Shrine was built by Saeki no Kuramoto
+James_Harden;James Harden;The United States;Basketball Player;James Harden is playing for Houston Rocket;James Harden is receiving many shoes as a gift
+Lake_Hillier;Lake Hillier;Australia;The only living organisms in the lake are microorganisms;The microorganisms help to produce the colour
+Leonardo_Dicaprio;Leonardo DiCaprio;The United States;Actor;The Revenant;Leonardo DiCaprio won the Academy Award for Best Actor
+Li_Zi_Qi;Li Zi Qi;China;Youtuber;Li Zi Qi's channel content is about countryside
+Martin_Luther_King;Martin Luther King;The United States;Politician;Martin Luther King is the former Minister
+Moai;Moai;Easter Island;Moai was toppled in the late 18th and early 19th centuries
+Paul_Pogba;Paul Pogba;France;Athlete;Paul Pogba is serving for Manchester United now
+Rihanna;Rihanna;Barbados;Singer;Diamond is one of Rihanna's songs
+Santorini;Santorini;Greece;It is one of the Cyclades islands in south Aegean Sea
+Steve_Jobs;Steve Jobs;The United States;Entrepreneur;Steve Jobs found Apple;Apple is a Computer Hardware company
+Taekwondo;Taekwondo;Korea;There are six colours of belts;Three points are given for a kick to the head
+The_Grand_Place;The Grand Palace;Thailand;The Grand Palace has been the residence of the King
+Taj_Mahal;Taj Mahal;Agra, India;Taj Mahal is a house tomb of Mughal emperor's wife
+Tokyo_Tower;Tokyo Tower;Japan;Tokyo Tower is a communications and observations tower
+Wiz_Khalifa;Wiz Khalifa;The United States;Rapper
+Uluru_Ayers_Rock;Ayers Rock;Australia;Wiz Khalifa is also known as Uluru;
+911;The September 11 attacks;New York, The United States;The Al-Qaeda planned this attack;The World Trade Center was attacked
+1989_Tiananmen_Square_protests;1989 Tiananmen Square protests;China;1989 Tiananmen Square protests happened due to economic reform;The man in the picture wanted to stop the tank
+Elvis_Presley;Elvis Presley;The United States;Singer;Elvis Presley is referred as King of Rock and Roll
+George_W_Bush;George W Bush;The United States;Politician;George W Bush is the former President;
+Kendall_Jenner;Kendall Jenner;The United States;Model
+Kevin_Durant;Kevin Durant;The United States;Basketball Player;Kevin Durant is playing for Brooklyn Nets;Kevin Durant is attending the press conference for his joining a new team
+Lang_Lang;Lang Lang;China;Pianist
+Le_Pouce_By_Cesar;Le Pouce by César;Paris, France;Le Pouce by César is a wrinkled and curved thumb
+London_Eye;London Eye;London, The United Kingdom;London Eye was conceived and designed by Marks Barfield Architects;London Eye was launched in 2000
+Mao_Ze_Dong;Mao Ze Dong;China;Politician;Mao Ze Dong is the former President
+Mark_Zuckerberg;Mark Zuckerberg;The United States;Entrepreneur;Mark Zuckerberg found Facebook
+Milau_Bridge;Milau Bridge;Millau, France;Milau Bridge is a cable-stayed bridge;Milau Bridge spans the gorge valley of the tarn near Millau
+Mother_Teresa;Mary Teresa Bojaxhiu;North Macedonia;Nun;Mary Teresa Bojaxhiu is known as Mother Teresa;Mary Teresa Bojaxhiu devoted her life to eradicating poverty
+Niagara_Falls;Niagara Falls;The United States;Niagara Falls is famed for its beauty;Niagara Falls is famed for a valuable source of hydroelectric power
+Oriental_Pearl_Tower;Oriental Pearl Tower;China;Oriental Pearl Tower is the landmark in Shanghai, China
+Osama_Bin_Laden;Osama Bin Laden;Saudi Arabian;Terrorist;Osama Bin Laden joined Al-Qaeda;He planned 911 Attack
+Pablo_Picasso;Pablo Picasso;Spain;Painter;Les Demoiselles d'Avignon is Pablo Picasso's work
+Rowan_Atkinson;Rowan Atkinson;The United Kingdom;Actor;Rowan Atkinson acts in Mr. Bean
+Songkran_Festival;Songkran Festival;Thailand;Songkran Festival is held to welcome the New Year;Songkran Festival is held on 13 April
+St_Basil's_Cathedral;St Basil's Cathedral;Russia;St Basil's Cathedral is a Christian church
+Stonehenge;Stonehenge;England;Stonehenge has been a burial ground
+Sumo;Sumo;Japan;The player must live a traditional lifestyle;Only one foreign players per stable is allowed
+The_Great_Sphinx;The Great Sphinx of Giza;Cairo, Egypt;The Great Sphinx of Giza is one of the world's largest and oldest statues
+The_Olympic_Games;The Olympic Games;Beijing, China;At least one of the Olympic Rings' colours appears in every national flag;The Olympic Games is held every four years
+The_White_House;The White House;The United States;The White House is the official residence of the President of the United States;The White House is the official workplace of the President of the United States
+Arc_De_Triomphe;Arc de Triomphe;France;Arc de Triomphe honours those who fought and died for France
+Berlin_Wall;Berlin Wall;Germany;Berlin Wall was officially referred to as the Anti-Fascist Protection Rampart
+Eminem;Eminem;The United States;Rapper;Lose Yourself is one of Eminem's songs
+Ice_Bucket_Challenge;Ice bucket challenge;The United States;The ice bucket challenge is to promote awareness of the disease ALS;The ice bucket challenge first occurred in year 2014
+Jay_Z;Jay Z;The United States;Rapper;Jay Z won the 2019 President's Award
+Jimmy_Carter;Jimmy Carter;The United States;Politician;Jimmy Carter is the former President
+Josh_Gad;Josh Gad;The United States;Actor;Josh Gad voices for Olaf in the Frozen
+Kindlifresser_Fountain;Kindlifresser Fountain;Bern, Switzerland;A seated ogre is devouring a naked child
+Lee_Kuan_Yew;Lee Kuan Yew;Singapore;Politician;Lee Kuan Yew is the former Prime Minister of Singapore;Lee Kuan Yew enacted Home ownership scheme
+Mahatma_Gandhi;Mahatma Gandhi;India;Politician;Mahatma Gandhi lead the successful campaign for India's independence
+Michael_Jackson;Michael Jackson;The United States;Singer;Dangerous is one of Michael Jackson's song
+Michael_Jordan;Michael Jordan;The United States;Athlete;Michael Jordan owns Charlotte Bobcats
+San_Fermin_Festival;The San Fermin Festival;Spain;The San Fermin Festival is to commemorate San Fermin;The San Fermin Festival is held in July
+Scarlett_Johansson;Scarlett Johansson;The United States;Actress;Scarlett Johansson acts in The Avengers
+St_Peter's_Bsilica;St Peter's Bsilica;Holy See;St Peter's Bsilica is a church built in the Renaissance style
+Statue_of_liberty;Statue of liberty;The United States;The statue is a figure of Libertas
+Stephen_Hawking;Stephen_Hawking;The United Kindom;Physicist;Stephen_Hawking wrote A Brief History Of Time
+Thanksgiving_Day;Thanksgiving Day;The United States;Thanksgiving Day is held to thank and sacrifice for the blessing of the harvest and of the preceding year;Thanksgiving Day is held on the fourth Thursday of November
+The_Cloud_Forest;The Cloud Forest;Singapore;The Cloud Forest replicates the cool moist conditions found in tropical mountain regions found in South-East Asia, Central- and South America
+The_Moon_Landing;The Moon Landing;Apollo 11 was the first spaceflight to land humans on the moon;Neil Armstrong is the first man on the moon;Neil Armstrong landed the moon on 16 July 1969
+Theresa_May;Theresa May;The United Kingdom;Politician;Theresa May is the former Prime Minister
+Time_Squares;Time Squares;The United States;Time Squares is referred to as the Crossroads of the world
+Tower_Bridge;Tower Bridge;The United Kingdom;Tower Bridge is over the Thames River
+Trevi_Fountain;Trevi Fountain;Italy;Trevi Fountain has appeared in several notable films
+Victoria's_Secret;Victoria's Secret Fashion Show;This event had been held in China;Victoria's Secret Fashion Show is held every year
