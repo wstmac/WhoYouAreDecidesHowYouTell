@@ -6,11 +6,11 @@ We have built the first humlan-centered image captioning dataset Knowledge5K. It
 
 Statistics of the Knowledge5K:
 
-![](./dataset/Knowledge5K_stats.png)
+![](./datasets/Knowledge5K_stats.png)
 
 Distribution of the Knowledge5K:
 
-![](./img/Knowledge5K_distribution.png)
+![](./datasets/Knowledge5K_distribution.png)
 
 ## Getting Started
 Before starting to train the model, we need to convert the Knowledge5K into certain formats.
