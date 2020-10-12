@@ -1,7 +1,27 @@
-#Who You Are Decides How You Tell
-Pytorch implementation of [Who You Are Decides How You Tell](https://dl.acm.org/doi/10.1145/3394171.3413589) which studies the impact of different human factors on the human-like image captions. It also contains the first human-centered image caption dataset Knowledge5K.
+# Who You Are Decides How You Tell
+Pytorch implementation of [Who You Are Decides How You Tell](https://dl.acm.org/doi/10.1145/3394171.3413589) which studies the impact of different human factors on the human-like image captions. It also contains the first human-centered image captioning dataset Knowledge5K.
 
+## Knowledge5K
+We have built the first humlan-centered image captioning dataset Knowledge5K. It not only contains image caption pairs, but also human factors for each caption, and external knowledge for each image. 
 
+Statistics of the Knowledge5K:
+
+![](./dataset/Knowledge5K_stats.png)
+
+Distribution of the Knowledge5K:
+
+![](./img/Knowledge5K_distribution.png)
+
+## Getting Started
+Before starting to train the model, we need to convert the Knowledge5K into certain formats.
+```bash
+$ python create_input_files.py
+```
+
+Run the command below to train the model.
+```bash
+$ python train.py
+```
 
 ## Related Publication
 
